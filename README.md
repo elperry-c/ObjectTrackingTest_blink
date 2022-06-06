@@ -18,7 +18,7 @@
     その他の方法:
         
     「スケッチ」→「ライブラリをインポート」→「ライブラリを追加」→ 
-    検索窓で"minim"と検索してinstall
+    検索窓で"minim"と検索してMinim (An audio library that provides easy to use classes for playback, recording, analysis, and synthesis of sound.) をinstall
 
 ## 実験手順
 ### <練習>
