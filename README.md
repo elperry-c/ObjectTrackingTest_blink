@@ -4,11 +4,11 @@
 下記の注意点をよく読んだうえでテストを受けてください．
 
 ## はじめに
-本研究に協力していただける方は[同意書(Googleフォーム)](https://forms.gle/sBLxTezTzahiGHwu6)の提出をお願いします．
+本研究に協力していただける方は[同意書(Googleフォーム)](https://forms.gle/sBLxTezTzahiGHwu6 "https://forms.gle/sBLxTezTzahiGHwu6")の提出をお願いします．
 
 ## 必要なもの
 - PCとマウス
-- PCにProcessingが入ってない人は[ダウンロード](https://processing.org/download)
+- PCにProcessingが入ってない人は[ダウンロード](https://processing.org/download "https://processing.org/download")
     
     バージョンは3.5.4と最新の4.0βのどちらかでお願いします．
 - Minimライブラリを追加インストール
@@ -17,7 +17,7 @@
     ```
     git clone https://github.com/ddf/Minim.git
     ```
-    その他の方法
+    その他の方法:
         
     「スケッチ」→「ライブラリをインポート」→「ライブラリを追加」→ 
     検索窓で"minim"と検索してinstall
