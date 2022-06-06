@@ -9,8 +9,6 @@
 ## 必要なもの
 - PCとマウス
 - PCにProcessingが入ってない人は[ダウンロード](https://processing.org/download "https://processing.org/download")
-    
-    バージョンは3.5.4と最新の4.0βのどちらかでお願いします．
 - Minimライブラリを追加インストール
     
     Processing/librariesディレクトリで次のようにコマンド
